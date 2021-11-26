@@ -1,4 +1,5 @@
 This repo contains all the methods related to java Optional.
+
 By going through this repo, you will get a good understanding of 
 - What is an Optional?
 - Why we need Optional?
@@ -8,4 +9,3 @@ By going through this repo, you will get a good understanding of
 
 Happy coding!!!
 -- Pavan
-
